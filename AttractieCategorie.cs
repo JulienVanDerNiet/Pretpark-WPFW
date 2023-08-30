@@ -1,0 +1,4 @@
+enum AttractieCategorie{
+    Achtbaan,
+    Spookhuis
+}

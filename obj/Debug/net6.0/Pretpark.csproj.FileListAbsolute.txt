@@ -1,0 +1,15 @@
+D:\WPFW 2023\Pretpark\obj\Debug\net6.0\Pretpark.csproj.AssemblyReference.cache
+D:\WPFW 2023\Pretpark\obj\Debug\net6.0\Pretpark.GeneratedMSBuildEditorConfig.editorconfig
+D:\WPFW 2023\Pretpark\obj\Debug\net6.0\Pretpark.AssemblyInfoInputs.cache
+D:\WPFW 2023\Pretpark\obj\Debug\net6.0\Pretpark.AssemblyInfo.cs
+D:\WPFW 2023\Pretpark\obj\Debug\net6.0\Pretpark.csproj.CoreCompileInputs.cache
+D:\WPFW 2023\Pretpark\bin\Debug\net6.0\Pretpark.exe
+D:\WPFW 2023\Pretpark\bin\Debug\net6.0\Pretpark.deps.json
+D:\WPFW 2023\Pretpark\bin\Debug\net6.0\Pretpark.runtimeconfig.json
+D:\WPFW 2023\Pretpark\bin\Debug\net6.0\Pretpark.dll
+D:\WPFW 2023\Pretpark\bin\Debug\net6.0\Pretpark.pdb
+D:\WPFW 2023\Pretpark\obj\Debug\net6.0\Pretpark.dll
+D:\WPFW 2023\Pretpark\obj\Debug\net6.0\refint\Pretpark.dll
+D:\WPFW 2023\Pretpark\obj\Debug\net6.0\Pretpark.pdb
+D:\WPFW 2023\Pretpark\obj\Debug\net6.0\Pretpark.genruntimeconfig.cache
+D:\WPFW 2023\Pretpark\obj\Debug\net6.0\ref\Pretpark.dll
