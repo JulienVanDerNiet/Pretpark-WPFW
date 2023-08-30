@@ -7,5 +7,7 @@ public class Attractie{
     private string Naam  {get; set;}
     private char Karakter {get; set;}
 
-    public KaartItem
+    public Attractie(){
+        
+    }
 }
